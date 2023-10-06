@@ -118,3 +118,6 @@ Some were taken from this repository [here](https://github.com/Ruixi-rebirth/wal
 ![preview](https://raw.githubusercontent.com/yuki6942/wallpaper/main/53.png)
 ## 54.png
 ![preview](https://raw.githubusercontent.com/yuki6942/wallpaper/main/54.png)
+
+## 55.png
+![preview](https://raw.githubusercontent.com/yuki6942/wallpaper/main/55.png)
