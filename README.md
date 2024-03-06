@@ -1,9 +1,9 @@
-<summary>Wallpaper</summary>
+### Wallpaper
   
 Random wallpaper I found.
 Some were taken from this repository [here](https://github.com/Ruixi-rebirth/wallpaper)
 
-Choose a wallpaer from the dropdown list:
+Choose a wallpaper from the dropdown list:
 
 <details>
 <summary>Click to Expand</summary>
