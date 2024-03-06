@@ -1,5 +1,4 @@
-<details>
-### Wallpaper
+<summary>Wallpaper</summary>
   
 Random wallpaper I found.
 Some were taken from this repository [here](https://github.com/Ruixi-rebirth/wallpaper)
@@ -65,7 +64,5 @@ Choose a wallpaer from the dropdown list:
 54. ![Wallpaper 54](https://raw.githubusercontent.com/yuki6942/wallpaper/main/54.png)
 55. ![Wallpaper 55](https://raw.githubusercontent.com/yuki6942/wallpaper/main/55.png)
 56. ![Wallpaper 56](https://raw.githubusercontent.com/yuki6942/wallpaper/main/56.png)
-
-</details>
 
 </details>
