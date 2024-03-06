@@ -1,5 +1,5 @@
 <details>
-<summary>Wallpaper</summary>
+### Wallpaper
   
 Random wallpaper I found.
 Some were taken from this repository [here](https://github.com/Ruixi-rebirth/wallpaper)
