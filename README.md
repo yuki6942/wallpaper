@@ -1,5 +1,5 @@
 ### Wallpaper
-  
+
 Random wallpaper I found.
 Some were taken from this repository [here](https://github.com/Ruixi-rebirth/wallpaper)
 
@@ -64,5 +64,37 @@ Choose a wallpaper from the dropdown list:
 54. ![Wallpaper 54](https://raw.githubusercontent.com/yuki6942/wallpaper/main/54.png)
 55. ![Wallpaper 55](https://raw.githubusercontent.com/yuki6942/wallpaper/main/55.png)
 56. ![Wallpaper 56](https://raw.githubusercontent.com/yuki6942/wallpaper/main/56.png)
+57. ![Wallpaper 57](https://raw.githubusercontent.com/yuki6942/wallpaper/main/57.png)
+58. ![Wallpaper 58](https://raw.githubusercontent.com/yuki6942/wallpaper/main/58.png)
+59. ![Wallpaper 59](https://raw.githubusercontent.com/yuki6942/wallpaper/main/59.png)
+60. ![Wallpaper 60](https://raw.githubusercontent.com/yuki6942/wallpaper/main/60.png)
+61. ![Wallpaper 61](https://raw.githubusercontent.com/yuki6942/wallpaper/main/61.png)
+62. ![Wallpaper 62](https://raw.githubusercontent.com/yuki6942/wallpaper/main/62.png)
+63. ![Wallpaper 63](https://raw.githubusercontent.com/yuki6942/wallpaper/main/63.png)
+64. ![Wallpaper 64](https://raw.githubusercontent.com/yuki6942/wallpaper/main/64.png)
+65. ![Wallpaper 65](https://raw.githubusercontent.com/yuki6942/wallpaper/main/65.png)
+66. ![Wallpaper 66](https://raw.githubusercontent.com/yuki6942/wallpaper/main/66.png)
+67. ![Wallpaper 67](https://raw.githubusercontent.com/yuki6942/wallpaper/main/67.png)
+68. ![Wallpaper 68](https://raw.githubusercontent.com/yuki6942/wallpaper/main/68.png)
+69. ![Wallpaper 69](https://raw.githubusercontent.com/yuki6942/wallpaper/main/69.png)
+70. ![Wallpaper 70](https://raw.githubusercontent.com/yuki6942/wallpaper/main/70.png)
+71. ![Wallpaper 71](https://raw.githubusercontent.com/yuki6942/wallpaper/main/71.png)
+72. ![Wallpaper 72](https://raw.githubusercontent.com/yuki6942/wallpaper/main/72.png)
+73. ![Wallpaper 73](https://raw.githubusercontent.com/yuki6942/wallpaper/main/73.png)
+74. ![Wallpaper 74](https://raw.githubusercontent.com/yuki6942/wallpaper/main/74.png)
+75. ![Wallpaper 75](https://raw.githubusercontent.com/yuki6942/wallpaper/main/75.png)
+76. ![Wallpaper 76](https://raw.githubusercontent.com/yuki6942/wallpaper/main/76.png)
+77. ![Wallpaper 77](https://raw.githubusercontent.com/yuki6942/wallpaper/main/77.png)
+78. ![Wallpaper 78](https://raw.githubusercontent.com/yuki6942/wallpaper/main/78.png)
+79. ![Wallpaper 79](https://raw.githubusercontent.com/yuki6942/wallpaper/main/79.png)
+80. ![Wallpaper 80](https://raw.githubusercontent.com/yuki6942/wallpaper/main/80.png)
+81. ![Wallpaper 81](https://raw.githubusercontent.com/yuki6942/wallpaper/main/81.png)
+82. ![Wallpaper 82](https://raw.githubusercontent.com/yuki6942/wallpaper/main/82.png)
+83. ![Wallpaper 83](https://raw.githubusercontent.com/yuki6942/wallpaper/main/83.png)
+84. ![Wallpaper 84](https://raw.githubusercontent.com/yuki6942/wallpaper/main/84.png)
+85. ![Wallpaper 85](https://raw.githubusercontent.com/yuki6942/wallpaper/main/85.png)
+86. ![Wallpaper 86](https://raw.githubusercontent.com/yuki6942/wallpaper/main/86.png)
+87. ![Wallpaper 87](https://raw.githubusercontent.com/yuki6942/wallpaper/main/87.png)
+88. ![Wallpaper 88](https://raw.githubusercontent.com/yuki6942/wallpaper/main/88.png)
 
 </details>
