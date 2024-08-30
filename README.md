@@ -97,5 +97,6 @@ Choose a wallpaper from the dropdown list:
 87. ![Wallpaper 87](https://raw.githubusercontent.com/yuki6942/wallpaper/main/87.png)
 88. ![Wallpaper 88](https://raw.githubusercontent.com/yuki6942/wallpaper/main/88.png)
 89. ![Wallpaper 89](https://raw.githubusercontent.com/yuki6942/wallpaper/main/89.png)
+90. ![Wallpaper 90](https://raw.githubusercontent.com/yuki6942/wallpaper/main/90.png)
 
 </details>
