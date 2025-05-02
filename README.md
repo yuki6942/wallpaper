@@ -103,5 +103,18 @@ Choose a wallpaper from the dropdown list:
 93. ![Wallpaper 93](https://raw.githubusercontent.com/yuki6942/wallpaper/main/93.png)
 94. ![Wallpaper 94](https://raw.githubusercontent.com/yuki6942/wallpaper/main/94.png)
 95. ![Wallpaper 95](https://raw.githubusercontent.com/yuki6942/wallpaper/main/95.png)
+96. ![Wallpaper 96](https://raw.githubusercontent.com/yuki6942/wallpaper/main/96.png)
+97. ![Wallpaper 97](https://raw.githubusercontent.com/yuki6942/wallpaper/main/97.png)
+98. ![Wallpaper 98](https://raw.githubusercontent.com/yuki6942/wallpaper/main/98.png)
+99. ![Wallpaper 99](https://raw.githubusercontent.com/yuki6942/wallpaper/main/99.png)
+100. ![Wallpaper 100](https://raw.githubusercontent.com/yuki6942/wallpaper/main/100.png)
+101. ![Wallpaper 101](https://raw.githubusercontent.com/yuki6942/wallpaper/main/101.png)
+102. ![Wallpaper 102](https://raw.githubusercontent.com/yuki6942/wallpaper/main/102.png)
+103. ![Wallpaper 103](https://raw.githubusercontent.com/yuki6942/wallpaper/main/103.png)
+104. ![Wallpaper 104](https://raw.githubusercontent.com/yuki6942/wallpaper/main/104.png)
+105. ![Wallpaper 105](https://raw.githubusercontent.com/yuki6942/wallpaper/main/105.png)
+106. ![Wallpaper 106](https://raw.githubusercontent.com/yuki6942/wallpaper/main/106.png)
+107. ![Wallpaper 107](https://raw.githubusercontent.com/yuki6942/wallpaper/main/107.png)
+108. ![Wallpaper 108](https://raw.githubusercontent.com/yuki6942/wallpaper/main/108.png)
 
 </details>
